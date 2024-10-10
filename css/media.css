@@ -1,0 +1,96 @@
+
+@media (max-width: 575px) {
+    .phone_images {
+        display: none;
+    }
+    .height {
+       
+        text-align: center;
+    }
+
+    span.navbar-icon {
+        color: #fff;
+    }
+    .nav-item {
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .features_content {
+        margin-bottom: 30px;
+    }
+    .phone {
+        width: 70%;
+        margin: auto;
+    }
+    .heading h5 {
+        text-align: center;
+    }
+    .detailes .heading {
+        text-align: center !important;
+    }
+    .detailes .heading span {
+        margin: auto;
+        margin-top: 25px;
+    }
+    .detailes ul {
+        width: 50%;
+        margin: auto;
+        margin-top: 26px;
+
+    }
+    .heading {
+        text-align: center;
+        width: 100%;
+    }
+    .heading h1 {
+        text-align: center;
+    }
+    .heading p {
+        text-align: center;
+    }
+    .customize .heading span {
+        margin: auto;
+        margin-top: 25px;
+    }
+    .phone_imageastwo {
+        width: 70%;
+        margin: auto;
+    }
+    .testimonial_section{
+        text-align: center;
+    }
+    .clients_details {
+        justify-content: center;
+    }
+    .add_section {
+        text-align: center;
+    }
+
+.text-end {
+    margin-top: 25px;
+}
+.from{
+    width: 100%;
+
+}
+.from input {
+
+    margin-bottom: 10px;
+}
+.text-center {
+    margin-bottom: 50px;
+}
+.icon_boximg {
+   
+    margin-bottom: 80px;
+}
+.col-md-5.text-end {
+    text-align: center !important;
+}
+
+ 
+}
+.detailes ul li {
+  
+    font-size: 15px;
+}
